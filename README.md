@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Oxana 👩‍💻 </br> </br> 
 🇷🇺 I live in Moscow, Russia </br> </br>
-🚀 I’m switching from a Business Analyst career path to Data Analytics and seeking a full-time role in this field </br> </br>
+🚀 I’m switching from a Business Analyst career path to Data Analytics </br> </br>
 👩‍🎓 I have completed eight courses and earned the [Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/34KHME6Q64G4) </br> </br>
 🌱 I’m currently enrolled in [Getting Started with Data Analytics Engineering](https://github.com/Data-Learn/data-engineering) course </br> </br>
 💬 Ask me about starting IT career in 30+ </br> </br>
