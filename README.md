@@ -7,7 +7,7 @@
 🍰 Also, I like pies only as a dessert </br> </br>
 
 
-## My CV: [Oxana Shaydullina's CV](https://github.com/oxana-shaydullina/cv/blob/gh-pages/Oxana%20Shaydullina_CV.pdf) </br> </br>
+## My CV: [Oxana Shaydullina's CV](https://github.com/oxana-shaydullina/cv/blob/gh-pages/Analyst_Oxana%20Shaydullina.pdf) </br> </br>
 
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
